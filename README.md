@@ -20,8 +20,8 @@
 
 - 👋 Hi, I’m @ChuangRoy
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m developing Youtube_Downloader project
+- 🌱 I’m currently a high school student
+- 💞️ I’m developing my basic skills
 
 
 <!---
