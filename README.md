@@ -5,10 +5,8 @@
   </a>
 </h1>
 
-- 👋 Hi, I’m @ChuangRoy
-- 👀 I’m interested in Coding
-- 🌱 I’m currently a high school student
-- 💞️ I’m developing my basic skills
+- A Python Noob
+- And a Valorant Noob
 
 
 <!---
