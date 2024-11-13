@@ -6,7 +6,9 @@
 </h1>
 
 - A Python Noob
-- And a Valorant Noob
+- I wanna learn Algorithm
+- need AC !
+- www.ckefgisc.org
 
 
 <!---
