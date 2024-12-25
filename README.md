@@ -5,10 +5,7 @@
   </a>
 </h1>
 
-- A Python Noob
-- I wanna learn Algorithm
-- need AC !
-- www.ckefgisc.org
+- A Noob
 
 
 <!---
