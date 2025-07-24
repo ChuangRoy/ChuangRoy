@@ -5,9 +5,9 @@
   </a>
 </h1>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChuangRoy/ChuangRoy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChuangRoy/ChuangRoy/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ChuangRoy/ChuangRoy/output/github-contribution-grid-snake.svg" />
 </picture>
 
 - A Noob
