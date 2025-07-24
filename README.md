@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=40&color=2958F7&center=true&multiline=true&width=600&height=60&lines=Welcome+To+My+GitHub">
   </a>
 </h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake.svg" />
+</picture>
 
 - A Noob
 
